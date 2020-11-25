@@ -1,0 +1,277 @@
+/*Cambio de Logo*/
+#logo {
+    content: url(logo.png);
+    top: 5px;
+}
+/*Fondo para la ficha*/
+.sandbox.sheet .window-content  {
+        background: url(fondo.jpg) repeat;
+}
+/*Fondo para el sidebar*/
+#sidebar {
+        background: url(fondosidebar.jpg);
+}
+/*Fondo para la tirada del chat*/
+#chat-log .message {
+    background: url(fondochat.jpg) repeat;
+    border: 2px solid #6f6c66;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 5px;
+    color: #191813;
+    font-size: 14px;
+}
+/*Fondo para el chat*/
+#chat-form textarea {
+    width: 100%;
+    height: 100%;
+    resize: none;
+    background: url(fondochatbajo.jpg) repeat;
+}
+*.window-app .window-content {
+  color: #000000;
+  background: white;
+}
+/*Fondo para el Journal-Diario*/
+.journal-sheet form {
+    overflow: hidden;
+    padding: 5px;
+    background: url(fondosin.jpg);
+}
+/*Añadir fuentes*/
+@font-face {
+  font-family: Bluebeard;
+  src:url(fonts/bluebeard.ttf);
+}
+@font-face {
+	font-family: Skolar-bold;
+	src:url (fonts/skolar-bold.otf) ;
+}
+@font-face {
+  font-family: Skolar-italic;
+  src:url(fonts/skolar-italic.otf);
+}
+@font-face {
+  font-family: Skolar-regular;
+  src:url(fonts/skolar-regular.otf);
+}
+/*Cambio de fuente y posición de los elementos para los textos/números de la tirada en el chat*/
+.roll-sender-name {
+    font-family: Bluebeard, sans-serif;
+    font-size: 14px;
+    width: 100%;
+}
+.roll-flavor {
+    font-family: skolar-italic, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    width: 100%;
+    margin-top: -15px;
+}
+.roll-result {
+    font-family: Bluebeard, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+    padding: 0px 5px;
+    height: 70px;
+}
+.roll-conditional {
+    font-family: skolar-bold, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    height: 20px;
+    width: 100%;
+    padding: 3px 3px;
+}
+.roll-wbutton {
+    font-family: skolar-regular, sans-serif;
+    font-size: 10px;
+    color: red;
+    text-align: left;
+    padding: 0px 5px;
+}
+.roll-user {
+    font-family: skolar-regular, sans-serif;
+    font-size: 10px;
+    text-align: right;
+    width: 100%;
+    padding: 0px 10px;
+}
+.roll-flexrow {
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 85%;
+    padding: 5px 5px;
+    margin: 0;
+}
+.roll-underline {
+    border-bottom: 1px solid red;
+    height: 23px;
+    width: 70%;
+}
+/*Cambio de fuente para los textos/números de la ficha de personaje y los cuadro de textos*/
+.sandbox.sheet .flexblock-left input[type=text].input-free {
+    width: 100%;
+    height: 26px;
+}
+
+.sandbox.sheet .flexblock-left input {
+    font-family: skolar-regular, sans-serif;
+	font-size: 13px;
+    text-align: center;
+    border: 1px solid #80694a;
+    border-radius: 5px;
+    background-color: #ebdfc5;
+}
+.sandbox.sheet .input-free {
+    padding: 1px 5px;
+}
+textarea {
+	font-family: skolar-regular, sans-serif;
+    width: 100%;
+    min-height: 50px;
+    padding: 5px;
+    background: rgba(0, 0, 0, 0.05);
+    border: 1px solid #000;
+    border-radius: 3px;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+/*Cambio de fuente para los textos de los títulos de paneles/multipaneles*/
+.sandbox.sheet .panelheader {
+    background-color: #80694a;
+    color: white;
+    padding: 3px 5px;
+    font-family: skolar-regular, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: 1px 1px black;
+    border-bottom: 1px solid black;
+}
+/*Cambio de color en los recuadros no editables o automáticos*/
+.sandbox.sheet table.table-free {
+    height: 100%;
+    width: 100%;
+}
+
+.sandbox.sheet table {
+    background-color: #ebdfc5;
+    border-style: none;
+    padding: 0px 0px;
+    margin: 0;
+}
+.sandbox.sheet .flexblock-left input.input-disabled {
+    background-color: #d8d0be;
+}
+/*Cambio de fuente y color de las tablas y sus identificadores*/
+.sandbox.sheet thead {
+    background-color: #ab8d6c;
+    color: white;
+    padding: 1px 5px;
+    font-family: skolar-regular, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: 1px 1px black;
+    border-bottom: 1px solid black;
+}
+/*Cambio de fuente para las listas desplegables*/
+.sandbox.sheet .centertext {
+    text-align: center;
+}
+select:focus {
+    box-shadow: 0 0 5px red;
+    outline: none;
+}
+
+select {
+	font-family: skolar-regular, sans-serif;
+    height: 25px;
+    background: rgba(0, 0, 0, 0.05);
+    border: 1px solid #80694a;
+    border-radius: 3px;
+    padding: 0 3px;
+    text-overflow: ellipsis;
+}
+/*Recolocación del nombre de personaje en la ficha*/
+.sandbox.sheet .charname input {
+    width: 100%;
+    height: 100%;
+    margin: 13px;
+}
+.sandbox.sheet .charname {
+    height: 60px;
+    padding: 13px;
+    margin: 1px;
+}
+/*Cambio de fuente para los textos editables de Foundry*/
+.sandbox.sheet .window-content {
+    background: url(fondo.jpg) repeat;
+}
+.sandbox.sheet .window-content {
+    padding: 5px 3px;
+    overflow-y: hidden;
+}
+*.window-app .window-content {
+    font-family: skolar-regular, sans-serif;
+	color: #000000;
+}
+.window-app .window-content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    background: url(fondo.jpg) repeat;
+    overflow-x: hidden;
+}
+/*Cambio fuente para carpetas*/
+element.style {
+    z-index: 103;
+    width: 650px;
+    height: 600px;
+    left: 357.5px;
+    top: 213.5px;
+}
+.sandbox.sheet, groupblock input.check-isconstant {
+    margin: 0;
+    padding: 0px 10px;
+}
+
+.sheet {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.window-app {
+    font-family: skolar-regular;
+    position: absolute;
+    box-shadow: 0 0 20px #000;
+}
+/*Cambio de fuente para textos de ficha no editables*/
+.sandbox.sheet .boldtext {
+    font-weight: bold;
+}
+
+.sandbox.sheet .label-medlarge {
+    font-family: skolar-regular, sans-serif;
+	margin: 0;
+    padding: 5px 5px;
+    width: 150px;
+    font-size: 13px;
+}
+/*Color de resultado de dados máximo y mínimo*/
+.roll-iscrit {
+    color: black;
+}
+.roll-isfumble {
+    color: black;
+}
+/*Fondo para nuevas carpetas*/
+.window-app .window-content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    background: url(fondosin.jpg);
+    overflow-x: hidden;
+}

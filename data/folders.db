@@ -1,0 +1,119 @@
+{"_id":"0OlvRy739BoJXK6Q","name":"Grupo Ataques PNJ","type":"Item","sort":6000000,"flags":{},"parent":"G37ehvKydLehYzN7","color":"#008040"}
+{"name":"Propiedades Panel 03","type":"Item","sort":2100000,"flags":{},"parent":"qcg8MhQabbWDd14U","color":"","_id":"0QYSIb4Y91h4RGzY"}
+{"_id":"0aBdEuD8Oyu3PBbS","name":"Grupos Armas","type":"Item","sort":50000,"flags":{},"parent":"G37ehvKydLehYzN7","color":"#008040"}
+{"name":"Propiedades Panel 01","type":"Item","sort":1600000,"flags":{},"parent":"oOleYo8kOr8a0NsG","color":"","_id":"0v7u1UaMowghIm99"}
+{"_id":"10xClenH3DcyChs8","name":"Pericias","type":"JournalEntry","sort":150000,"flags":{},"parent":"al15h9whadGC6cSX","sorting":"m","color":""}
+{"name":"Muertos","type":"Actor","sort":1400000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":"","_id":"1BJKQg70Nrgy1gQd"}
+{"_id":"1ohxs4EXVeHAgPKh","name":"Propiedades Grupo Protecciones","type":"Item","sort":600000,"flags":{},"parent":"jp0MFJW5BTpcvjqH","color":""}
+{"_id":"1zOICiynWpicCNbl","name":"Información Básica","type":"Item","sort":0,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"2C5wbdu8gbDzWvdD","name":"Propiedad Grupo Dado de Golpe","type":"Item","sort":300000,"flags":{},"parent":"jp0MFJW5BTpcvjqH","color":""}
+{"name":"Propiedades Panel 03","type":"Item","sort":5600000,"flags":{},"parent":"84pAYX8hAqyfrKju","color":"","_id":"33rGfRR1ADB5IYLo"}
+{"name":"Propiedades Panel 01","type":"Item","sort":4100000,"flags":{},"parent":"poIJ0r1hGH5MkfdA","color":"","_id":"3CuO652Kh0P7bzKt"}
+{"_id":"3Z8vr7aHdfL8EX7E","name":"Engendros","type":"Actor","sort":725000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","sorting":"a","color":""}
+{"_id":"3bcObIrAdDYheqHo","name":"Grupo Conjuros","type":"Item","sort":200000,"flags":{},"parent":"G37ehvKydLehYzN7","color":"#008040"}
+{"_id":"3vJBwjFAs0UcKxCa","name":"Grupo Talentos","type":"Item","sort":100000,"flags":{},"parent":"G37ehvKydLehYzN7","color":"#008040"}
+{"_id":"44PW6dzomlxIKqh9","name":"Talentos de Almardiente","type":"Item","sort":100000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"4e0duQ526VgcAAxR","name":"_plantillascItems","type":"Item","sort":575000,"flags":{},"parent":"u0BL9DdMMvtbHqAQ","sorting":"m","color":""}
+{"_id":"4iTW4mMlRGgGxc2y","name":"Bestias","type":"Actor","sort":400000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":""}
+{"_id":"4zfBKAcGpbYOSOs4","name":"Plantilla para PJ/PNJ","type":"Actor","sort":1500000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Armas Aliados","type":"Item","sort":6500000,"flags":{},"parent":"JK0R1VYvk9xqpXcX","sorting":"a","color":"","_id":"6Pfk2cKfpio2tpxe"}
+{"_id":"6bu0sDGTA0g8DSkm","name":"Talentos de Montaraz","type":"Item","sort":1000000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"7y0vnquhYsMCm0Wc","name":"Talentos de Ladrón","type":"Item","sort":800000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"84pAYX8hAqyfrKju","name":"Devoción","type":"Item","sort":2931641,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"name":"Paneles","type":"Item","sort":3900000,"flags":{},"parent":"oEledXYkCvqXoxdE","color":"#60972d","_id":"8Y0eWleDHUWFMl6O"}
+{"name":"Propiedades Panel 01","type":"Item","sort":5900000,"flags":{},"parent":"t7yRyHhX1uth27hR","color":"","_id":"8qnIh4g8flHjNIyo"}
+{"_id":"8vEsNWEvaKzG5VwD","name":"Alijo","type":"Item","sort":1750000,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"name":"Propiedades Panel 01","type":"Item","sort":4300000,"flags":{},"parent":"oEledXYkCvqXoxdE","color":"","_id":"94Z1b3R2GVewOeK0"}
+{"name":"Propiedades Panel 01","type":"Item","sort":4700000,"flags":{},"parent":"zYPKVMRHCG2jOXuW","color":"","_id":"9sCXjPJP2eCDQu0G"}
+{"name":"Acuáticos","type":"Actor","sort":200000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":"","_id":"DCOZYm8oXHkaTZIm"}
+{"name":"Propiedades Panel 02","type":"Item","sort":5500000,"flags":{},"parent":"84pAYX8hAqyfrKju","color":"","_id":"DG9NQ7YP799VXl3u"}
+{"_id":"Dl1DQkd0eb9HfziP","name":"Propiedades Grupo Armas","type":"Item","sort":500000,"flags":{},"parent":"jp0MFJW5BTpcvjqH","color":""}
+{"_id":"EGGylCuNNwm79k8F","name":"Paneles","type":"Item","sort":3100000,"flags":{},"parent":"mmJKPIhJPPUdqzZE","color":"#60972d"}
+{"_id":"Ehicf9858HiCCDt7","name":"Información de Combate","type":"Item","sort":2375000,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"name":"Paneles","type":"Item","sort":3800000,"flags":{},"parent":"poIJ0r1hGH5MkfdA","color":"#60972d","_id":"F612vJnRAiHrtYZW"}
+{"_id":"FHFLj96hwJ9sz1mB","name":"Talentos de Perro","type":"Item","sort":1200000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"G37ehvKydLehYzN7","name":"_grupos","type":"Item","sort":625000,"flags":{},"parent":"u0BL9DdMMvtbHqAQ","sorting":"a","color":""}
+{"_id":"GQgEVe3q4Baygr8A","name":"Propiedades Panel 01","type":"Item","sort":100000,"flags":{},"parent":"1zOICiynWpicCNbl","color":""}
+{"_id":"HsxyF0A5uXOzEpeY","name":"Talentos de Elfo","type":"Item","sort":300000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"I2oES1OJN2uMuixS","name":"Protecciones","type":"Item","sort":600000,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"_id":"I3FCEZAlJcFC8He1","name":"Talentos de Lealtad","type":"Item","sort":-112500,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"_id":"IEY21BVhpZ5YGpvu","name":"Deidades","type":"JournalEntry","sort":300000,"flags":{},"parent":"al15h9whadGC6cSX","sorting":"m","color":""}
+{"name":"Propiedades Panel 02","type":"Item","sort":2000000,"flags":{},"parent":"qcg8MhQabbWDd14U","color":"","_id":"JBsoFW53PQTvbCSc"}
+{"_id":"JK0R1VYvk9xqpXcX","name":"Ataques PNJ (solo máster)","type":"Item","sort":900000,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"a","color":""}
+{"name":"Propiedades Panel 02","type":"Item","sort":3300000,"flags":{},"parent":"mmJKPIhJPPUdqzZE","color":"","_id":"JNbXIuquuZuWUXdx"}
+{"_id":"JNl4XQMNjgOQiREt","name":"Paneles","type":"Item","sort":5300000,"flags":{},"parent":"84pAYX8hAqyfrKju","color":"#60972d"}
+{"_id":"JmO5WyeMAQJsxfAh","name":"Paneles","type":"Item","sort":100000,"flags":{},"parent":"1zOICiynWpicCNbl","color":"#60972d"}
+{"_id":"KQ1lFRLJ2Ze3ZWra","name":"Embrujos","type":"Item","sort":6400000,"flags":{},"parent":"PfQRGrWHmR2VhPLd","sorting":"m","color":""}
+{"_id":"Kcsrxfktt3OVeYsZ","name":"Grupo Protecciones","type":"Item","sort":75000,"flags":{},"parent":"G37ehvKydLehYzN7","color":"#008040"}
+{"_id":"L7T2sStvvX3IPV38","name":"Fatas","type":"Actor","sort":950000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","sorting":"a","color":""}
+{"_id":"LOVqTvMeUDs6WK62","name":"Propiedades Grupo Dado de Ataque","type":"Item","sort":400000,"flags":{},"parent":"jp0MFJW5BTpcvjqH","color":""}
+{"_id":"LaSeCbBJxt7Mq5X6","name":"Propiedades Panel 01","type":"Item","sort":100000,"flags":{},"parent":"zdF8X2gn3rkc1v9k","color":""}
+{"name":"Propiedades Panel 04","type":"Item","sort":5700000,"flags":{},"parent":"84pAYX8hAqyfrKju","color":"","_id":"Lijru9kFmssSI4xq"}
+{"name":"Paneles","type":"Item","sort":1500000,"flags":{},"parent":"oOleYo8kOr8a0NsG","color":"#60972d","_id":"LoFXHONBeSzJUjmG"}
+{"_id":"MleQHpTVPaUlzi10","name":"Talentos de Enano","type":"Item","sort":400000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"PfQRGrWHmR2VhPLd","name":"Trucos y Embrujos","type":"Item","sort":700000,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"name":"Propiedades Panel 02","type":"Item","sort":1100000,"flags":{},"parent":"1zOICiynWpicCNbl","color":"","_id":"QVNFy9keKmYTv3f5"}
+{"name":"Propiedades Panel 03","type":"Item","sort":5200000,"flags":{},"parent":"zYPKVMRHCG2jOXuW","color":"","_id":"Rw3OfQajRNtm1zZE"}
+{"name":"Propiedades Panel 01","type":"Item","sort":3200000,"flags":{},"parent":"mmJKPIhJPPUdqzZE","color":"","_id":"S9ydZDpUL3DxYimn"}
+{"_id":"SPd3pZvmXGLqEUdC","name":"_template_ (solo máster)","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Impios","type":"Actor","sort":1200000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":"","_id":"TWnKxiRULMTzG8Ga"}
+{"_id":"UvN12tnagOR28edF","name":"Armas Manual","type":"Item","sort":-56250,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"_id":"UwoBcfTuyY5k9qAa","name":"Gentes","type":"Actor","sort":750000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","sorting":"a","color":""}
+{"name":"Talentos de Lealtad del Gremio","type":"Item","sort":6600000,"flags":{},"parent":"I3FCEZAlJcFC8He1","sorting":"m","color":"","_id":"V8sBain1SST3gflR"}
+{"name":"Dragones","type":"Actor","sort":600000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":"","_id":"VNdcnXWwxhDFggwW"}
+{"_id":"VwqOpgAAbpkNMNP2","name":"Dominios","type":"JournalEntry","sort":200000,"flags":{},"parent":"al15h9whadGC6cSX","sorting":"m","color":""}
+{"_id":"YI4GrbsgvCnOWoqG","name":"Propiedades Grupo PM","type":"Item","sort":200000,"flags":{},"parent":"jp0MFJW5BTpcvjqH","color":""}
+{"_id":"YWngxBDwE4Sl83Xg","name":"Propiedades Grupo Velocidad","type":"Item","sort":100000,"flags":{},"parent":"jp0MFJW5BTpcvjqH","color":""}
+{"name":"Propiedades Panel 02","type":"Item","sort":4800000,"flags":{},"parent":"zYPKVMRHCG2jOXuW","color":"","_id":"Z92NZjf0Dc5Vq9LP"}
+{"_id":"aJ5Yl6rtWwcWH065","name":"Trucos","type":"Item","sort":6300000,"flags":{},"parent":"PfQRGrWHmR2VhPLd","sorting":"m","color":""}
+{"_id":"al15h9whadGC6cSX","name":"Manual de TyG","type":"JournalEntry","sort":125000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"name":"Propiedades Panel 01","type":"Item","sort":1900000,"flags":{},"parent":"qcg8MhQabbWDd14U","color":"","_id":"b3ocqhQA7XtCvyXY"}
+{"name":"Informe","type":"Actor","sort":1300000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":"","_id":"b82ChDPJ0CLMxRRI"}
+{"_id":"bHkbO7CYl8FUwaYt","name":"Talentos de Kobold","type":"Item","sort":700000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"bLDmBJOpwwFCY8Rr","name":"Talentos de Clérigo","type":"Item","sort":200000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"clhexhLpDnfAOuZH","name":"Paneles","type":"Item","sort":0,"flags":{},"parent":"zdF8X2gn3rkc1v9k","color":"#60972d"}
+{"name":"Propiedades Panel 01","type":"Item","sort":3500000,"flags":{},"parent":"8vEsNWEvaKzG5VwD","color":"","_id":"cwpfV5nBA0reaPvk"}
+{"_id":"eMQS5k3rNwhVXiti","name":"Propiedades de las armas","type":"JournalEntry","sort":100000,"flags":{},"parent":"al15h9whadGC6cSX","sorting":"m","color":""}
+{"_id":"fmfr9jKWFgWFmEn8","name":"Talento de Prestigio","type":"Item","sort":-125000,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"name":"Endriagos","type":"Actor","sort":700000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":"","_id":"hArRx5YOzZftJMwm"}
+{"name":"Constructos","type":"Actor","sort":500000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":"","_id":"hSkPOSeSqc9LAImO"}
+{"name":"Propiedades Panel 02","type":"Item","sort":1700000,"flags":{},"parent":"oOleYo8kOr8a0NsG","color":"","_id":"iQDLpU8hmmodFaQC"}
+{"_id":"izH01yIKsvsnL6ik","name":"Gigantes","type":"Actor","sort":850000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","sorting":"a","color":""}
+{"_id":"jjDdRjTilK2UfkrW","name":"Talentos de Guerrero","type":"Item","sort":500000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"jl1DZcjrQbDpLLwu","name":"Paneles","type":"Item","sort":5800000,"flags":{},"parent":"t7yRyHhX1uth27hR","color":"#60972d"}
+{"_id":"jp0MFJW5BTpcvjqH","name":"_propiedades","type":"Item","sort":675000,"flags":{},"parent":"u0BL9DdMMvtbHqAQ","sorting":"a","color":""}
+{"_id":"k9XLBiDGwtlbDDgO","name":"Talentos de Mago","type":"Item","sort":900000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"name":"Propiedades Panel 01","type":"Item","sort":5400000,"flags":{},"parent":"84pAYX8hAqyfrKju","color":"","_id":"kVF5qhC0Ck3hm5OE"}
+{"name":"Paneles","type":"Item","sort":3400000,"flags":{},"parent":"8vEsNWEvaKzG5VwD","color":"#60972d","_id":"krdpjEmfo81P0hfO"}
+{"_id":"lrx6dOHYLoWFhare","name":"Conjuros","type":"Item","sort":800000,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"_id":"m0bKPfHi5WLzqZqg","name":"Bestiario","type":"Actor","sort":1600000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"name":"Propiedades Panel 01","type":"Item","sort":4000000,"flags":{},"parent":"Ehicf9858HiCCDt7","color":"","_id":"m0h5nJhWGhxYxPdL"}
+{"_id":"mmJKPIhJPPUdqzZE","name":"Tesoro","type":"Item","sort":500000,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"nGYe1h4T0B20jXDB","name":"Talentos de Clases","type":"Item","sort":-150000,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"name":"Propiedades Panel 02","type":"Item","sort":6200000,"flags":{},"parent":"t7yRyHhX1uth27hR","color":"","_id":"nSypfo3ZvfWLCRrj"}
+{"_id":"ngrNBDMUXdBuD4mh","name":"Talentos de Zingo","type":"Item","sort":1050000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"oEledXYkCvqXoxdE","name":"Protecciones","type":"Item","sort":2843750,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"oOleYo8kOr8a0NsG","name":"Características y Pericas","type":"Item","sort":100000,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"oQlI8dvvZczzvJZD","name":"Aliados","type":"Actor","sort":300000,"flags":{},"parent":"m0bKPfHi5WLzqZqg","color":""}
+{"name":"Propiedades Grupo Ataques PNJ","type":"Item","sort":6100000,"flags":{},"parent":"jp0MFJW5BTpcvjqH","color":"","_id":"pCSknALPFqwH6852"}
+{"_id":"poIJ0r1hGH5MkfdA","name":"Armas","type":"Item","sort":2687500,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"px8eyi6uEGIqzYSK","name":"Talentos de Hidalgo","type":"Item","sort":1450000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"qcg8MhQabbWDd14U","name":"Talentos","type":"Item","sort":200000,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"rZpzoqRR9jV8h4j6","name":"Talentos de Ogro","type":"Item","sort":1100000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"sGFICuQHlBJ0oQOj","name":"Armas Suplementos","type":"Item","sort":0,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"_id":"t7yRyHhX1uth27hR","name":"PNJ","type":"Item","sort":2941407,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"tFYUdJUAu2uoYfK6","name":"Clases de Personaje","type":"Item","sort":-200000,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"_id":"tYncUVHuNcxHyn1t","name":"Talentos de Visitante","type":"Item","sort":1300000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"tvJovI7l4JXpMfzn","name":"Grupos Clases","type":"Item","sort":0,"flags":{},"parent":"G37ehvKydLehYzN7","color":"#008040"}
+{"_id":"u0BL9DdMMvtbHqAQ","name":"_cItem_ (solo máster)","type":"Item","sort":0,"flags":{},"parent":null,"sorting":"m","color":""}
+{"name":"Paneles","type":"Item","sort":1800000,"flags":{},"parent":"qcg8MhQabbWDd14U","color":"#60972d","_id":"ukzfGHpsemgvwku8"}
+{"_id":"vPRIce0nlO8KQNGo","name":"_tabs","type":"Item","sort":3000000,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"wcuCD0B4Rn04oBRa","name":"Grupo Trucos y Embrujos","type":"Item","sort":300000,"flags":{},"parent":"G37ehvKydLehYzN7","color":"#008040"}
+{"name":"Paneles","type":"Item","sort":3700000,"flags":{},"parent":"Ehicf9858HiCCDt7","color":"#60972d","_id":"wj4ZJTd9tlIbxA99"}
+{"_id":"xGxpWWrHJ9gGU2ju","name":"Ataques Especiales","type":"Item","sort":200000,"flags":{},"parent":"zQe3hTbV3dQa5Bch","sorting":"m","color":""}
+{"name":"Propiedades Panel 03","type":"Item","sort":1200000,"flags":{},"parent":"1zOICiynWpicCNbl","color":"","_id":"xJ8uwNWJsKYCGiiM"}
+{"_id":"xUzPqRqW3vlySdtr","name":"Talentos de Alquimista","type":"Item","sort":1400000,"flags":{},"parent":"nGYe1h4T0B20jXDB","sorting":"m","color":""}
+{"_id":"zQe3hTbV3dQa5Bch","name":"Items","type":"Item","sort":-100000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"_id":"zYPKVMRHCG2jOXuW","name":"Grimorio","type":"Item","sort":2921875,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"_id":"zdF8X2gn3rkc1v9k","name":"Hitos","type":"Item","sort":300000,"flags":{},"parent":"SPd3pZvmXGLqEUdC","color":""}
+{"name":"Paneles","type":"Item","sort":4500000,"flags":{},"parent":"zYPKVMRHCG2jOXuW","color":"#60972d","_id":"zmnT44QOw8yCbTfC"}

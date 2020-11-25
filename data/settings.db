@@ -1,0 +1,10 @@
+{"key":"sandbox.showSimpleRoller","value":"false","_id":"2QHBJxqYqEeWO2BN"}
+{"key":"core.time","value":"0","_id":"7uTLGmlPc2VtXDnf"}
+{"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"9D7lFRNDVWLDGcyQ"}
+{"key":"sandbox.showADV","value":"false","_id":"DFxTAuXMb63hwlkp"}
+{"_id":"NVhMGVb9LT6ujRNs","key":"sandbox.customStyle","value":"\"\\\\worlds\\\\tesoroygloria\\\\style\\\\tesoroygloria.css\""}
+{"_id":"SX1kPtrGieO3EUvG","key":"core.compendiumConfiguration","value":"{\"mad-caverns-free.MAD-caverns-maps\":{\"private\":false,\"locked\":false},\"tacticalmap-free.maps\":{\"private\":false,\"locked\":false},\"world.clases\":{\"private\":false,\"locked\":false}}"}
+{"_id":"fsvzY7lr0vfKmMFd","key":"core.coneTemplateType","value":"\"round\""}
+{"_id":"jcQiMp0hT5mkoscd","key":"core.moduleConfiguration","value":"{\"babele\":false,\"BatchPermissionsByFolder\":true,\"dice-so-nice\":true,\"dice-calculator\":true,\"pdfoundry\":false,\"FoundryVTT-ES\":false}"}
+{"key":"sandbox.showDC","value":"false","_id":"nRGE6kgsNPKIZ0zs"}
+{"key":"sandbox.showLastRoll","value":"false","_id":"tQwtyb9C4hDPiI63"}
