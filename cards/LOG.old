@@ -1,0 +1,5 @@
+2024/11/04-08:33:56.430 1cbc Delete type=3 #1
+2024/11/04-08:43:46.232 1740 Level-0 table #5: started
+2024/11/04-08:43:46.232 1740 Level-0 table #5: 0 bytes OK
+2024/11/04-08:43:46.239 1740 Delete type=0 #3
+2024/11/04-08:43:46.264 1740 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
