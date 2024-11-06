@@ -2,7 +2,7 @@
   "title": "Tesoro y Gloria",
   "version": "1.0.0",
   "url": "https://github.com/Konkuo/foundry-tesoroygloria",
-  "manifest": "https://raw.githubusercontent.com/Konkuo/foundry-tesoroygloria/main/world.json",
+  "manifest": "https://raw.githubusercontent.com/Konkuo/foundry-tesoroygloria/Ver-1.1/world.json",
   "download": "https://github.com/Konkuo/foundry-tesoroygloria/archive/main.zip",
   "background": "worlds/tesoroygloria/resources/FondoTyG.jpg",
   "system": "sandbox",
