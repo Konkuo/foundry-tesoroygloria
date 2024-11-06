@@ -1,0 +1,13 @@
+2024/11/05-00:06:08.404 2b3c Recovering log #15
+2024/11/05-00:06:08.407 2b3c Level-0 table #17: started
+2024/11/05-00:06:08.416 2b3c Level-0 table #17: 542323 bytes OK
+2024/11/05-00:06:08.421 2b3c Delete type=0 #15
+2024/11/05-00:06:08.421 2b3c Delete type=3 #13
+2024/11/05-00:06:08.422 4c84 Compacting 4@0 + 0@1 files
+2024/11/05-00:06:08.435 4c84 Generated table #19@0: 105 keys, 339659 bytes
+2024/11/05-00:06:08.435 4c84 Compacted 4@0 + 0@1 files => 339659 bytes
+2024/11/05-00:06:08.438 4c84 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/05-00:06:08.438 4c84 Delete type=2 #9
+2024/11/05-00:06:08.438 4c84 Delete type=2 #12
+2024/11/05-00:06:08.438 4c84 Delete type=2 #14
+2024/11/05-00:06:08.438 4c84 Delete type=2 #17
